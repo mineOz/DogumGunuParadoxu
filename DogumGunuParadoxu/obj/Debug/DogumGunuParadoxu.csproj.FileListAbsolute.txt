@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\DogumGunuParadoxu\DogumGunuParadoxu\bin\Debug\DogumGunuParadoxu.exe.config
+C:\Users\lenovo\Desktop\DogumGunuParadoxu\DogumGunuParadoxu\bin\Debug\DogumGunuParadoxu.exe
+C:\Users\lenovo\Desktop\DogumGunuParadoxu\DogumGunuParadoxu\bin\Debug\DogumGunuParadoxu.pdb
+C:\Users\lenovo\Desktop\DogumGunuParadoxu\DogumGunuParadoxu\obj\Debug\DogumGunuParadoxu.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\DogumGunuParadoxu\DogumGunuParadoxu\obj\Debug\DogumGunuParadoxu.exe
+C:\Users\lenovo\Desktop\DogumGunuParadoxu\DogumGunuParadoxu\obj\Debug\DogumGunuParadoxu.pdb
